@@ -1,3 +1,12 @@
+# Convolutional Neural Network with PyTroch
+
+Below is the architecture I used to improve the performance of the model to predict 68 Keypoints pairs (136 output). 
+
+* 5 Convolutional Layers with Pooling (MaxPool)
+* 4 Fully Connected Layers
+
+![img](images/cnn.png)
+
 # Facial Keypoint Detection
 
 This project will be all about defining and training a convolutional neural network to perform facial keypoint detection, and using computer vision techniques to transform images of faces.  The first step in any challenge like this will be to load and visualize the data you'll be working with. 
